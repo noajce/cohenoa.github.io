@@ -1,5 +1,6 @@
 * [my github repository](https://github.com/cohenoa/)
 * [my profile at dev.to](https://dev.to/cohenoa/)
 * [OSDC - Open Source Development Course](https://osdc.code-maven.com/)
-* ![](../img/logo.png)
+* ![](logo.png)
 * [my CV](/cv)
+* Working on building my academic page:  [cohenoa-lab.github.io](https://cohenoa-lab.github.io)
