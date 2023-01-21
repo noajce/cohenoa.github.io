@@ -1,5 +1,5 @@
 * [my github repository](https://github.com/cohenoa/)
 * [my profile at dev.to](https://dev.to/cohenoa/)
 * [OSDC - Open Source Development Course](https://osdc.code-maven.com/)
-* ![](/root/img/noagami.PNG)
+* ![](../img/noagami.PNG)
 * [my CV](/docs/cv)
