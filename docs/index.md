@@ -1,4 +1,4 @@
-[my github repository](https://github.com/cohenoa/)
-[my profile at dev.to](https://dev.to/cohenoa/)
-[OSDC - Open Source Development Course](https://osdc.code-maven.com/)
-![][data/noagami.PNG]
+* [my github repository](https://github.com/cohenoa/)
+* [my profile at dev.to](https://dev.to/cohenoa/)
+* [OSDC - Open Source Development Course](https://osdc.code-maven.com/)
+* ![][noagami.PNG]
