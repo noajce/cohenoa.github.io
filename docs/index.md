@@ -2,4 +2,4 @@
 * [my profile at dev.to](https://dev.to/cohenoa/)
 * [OSDC - Open Source Development Course](https://osdc.code-maven.com/)
 * ![](/noagami.PNG)
-* [my CV](/docs/cv)
+* [my CV](cv)
