@@ -11,7 +11,7 @@ The published open-source packages can be found here: [cohenoa's github reposito
 * [my profile - dev.to](https://dev.to/cohenoa/)
 * [my CV](/cv)
 
-## My Blog posts [dev.to](https://dev.to/)
+## My Blog posts in [dev.to](https://dev.to/)
 * [Post #1](https://dev.to/cohenoa/joining-the-open-source-development-course-298k)
 * [Post #2](https://dev.to/cohenoa/creating-github-pages-is-easy-1221)
 
